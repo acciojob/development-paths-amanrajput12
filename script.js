@@ -1,9 +1,9 @@
 //your JS code here. If required.
-let myval = " development";
-// console.log(value)
+// let myval = " development";
+// // console.log(value)
 
-const data = document.querySelectorAll("li")
+// const data = document.querySelectorAll("li")
 
 
-	data.forEach(value=>value.textContent+= myval)
+// 	data.forEach(value=>value.textContent+= myval)
 

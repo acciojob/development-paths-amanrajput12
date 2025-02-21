@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let myval = " Development";
+let myval = " development";
 // console.log(value)
 
 const data = document.querySelectorAll("li")
